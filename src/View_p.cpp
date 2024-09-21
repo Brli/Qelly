@@ -23,6 +23,7 @@
 #include <QMenu>
 #include <QMimeData>
 #include <QPainter>
+#include <QPainterPath>
 #include <QRegExp>
 #include <QTimer>
 #include "AbstractConnection.h"
